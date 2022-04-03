@@ -1,6 +1,6 @@
-import React from 'react';
-import {Box, Center} from 'native-base';
-i;
+import React from "react";
+import { Box, Center } from "native-base";
+
 const GarbageDate = () => {
   return (
     <Center>
@@ -10,11 +10,12 @@ const GarbageDate = () => {
         p="5"
         width="100%"
         _text={{
-          fontSize: 'md',
-          fontWeight: 'medium',
-          color: 'warmGray.50',
-          letterSpacing: 'lg',
-        }}>
+          fontSize: "md",
+          fontWeight: "medium",
+          color: "warmGray.50",
+          letterSpacing: "lg",
+        }}
+      >
         Kiedy odbiorą śmieci?
       </Box>
     </Center>

@@ -2,12 +2,33 @@ import React, { useState } from "react";
 import { Checkbox, Box, Center, Button } from "native-base";
 import DropDown from "../Components/DropDown";
 import { useSelector } from "react-redux";
+import { readDataFromAsync, saveDataToAsyncStoreage } from "../store/actions";
 
-const SetAddress = () => {
+const SetAddress = ({ navigation }) => {
   const [saveAddress, setSaveAddress] = useState("");
+
   const cities = useSelector(({ cities }) => cities.cities);
+  const selectedCity = useSelector(({ cities }) => cities.selectedCity);
   const streets = useSelector(({ cities }) => cities.streets);
   const addresses = useSelector(({ cities }) => cities.addresses);
+
+  const handleSaveAddress = () => {
+    if (saveAddress) {
+      let index = cities.findIndex((item) => item.id === selectedCity);
+      let selected = cities[index];
+      saveDataToAsyncStoreage("city", selected);
+      console.log("saving");
+      navigation.navigate("Wywozy");
+    }
+  };
+
+  const validate = () => {
+    console.log("Sprawdzamy dane");
+  };
+
+  const handleLoadData = () => {
+    readDataFromAsync("city");
+  };
 
   return (
     <Center>
@@ -63,7 +84,7 @@ const SetAddress = () => {
             Zapisz adres
           </Checkbox>
           <Button
-            onPress={() => console.log("Szukam wywozów", saveAddress)}
+            onPress={() => handleSaveAddress()}
             bg="primary.600"
             width="100%"
             _text={{

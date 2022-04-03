@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\540dbfb90b248d7b59cd154497c15f99\\transformed\\core-1.5.0\\res\\values-ro\\values-ro.xml",
+                    "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\9f18c6b50baa776d71894ad120630276\\transformed\\core-1.6.0\\res\\values-ro\\values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -6,32 +6,33 @@ import {
   Select,
   WarningOutlineIcon,
 } from "native-base";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import {
   SET_SELECTED_ADDRESS,
   SET_SELECTED_CITY,
   SET_SELECTED_STREET,
 } from "../store/types";
+import { getAddresses, getStreets } from "../store/actions";
 
 const DropDown = ({ name, data, label, type }) => {
   let [service, setService] = useState(null);
   const dispatch = useDispatch();
 
-  console.log("Miasta");
-  console.log(data);
-  console.log(service);
+  const selectedCity = useSelector(({ cities }) => cities.selectedCity);
+  const selectedStreet = useSelector(({ cities }) => cities.selectedStreet);
 
   const setSelectedValue = (type, val) => {
-    console.log(type);
-
     if (type === "CITY") {
       dispatch({ type: SET_SELECTED_CITY, payload: val });
+      dispatch(getStreets());
     }
     if (type === "STREET") {
       dispatch({ type: SET_SELECTED_STREET, payload: val });
+      dispatch(getAddresses());
     }
     if (type === "ADDRESS") {
       dispatch({ type: SET_SELECTED_ADDRESS, payload: val });
+      dispatch(getExports());
     }
   };
 
@@ -52,7 +53,6 @@ const DropDown = ({ name, data, label, type }) => {
           onValueChange={(itemValue) => {
             setSelectedValue(type, itemValue);
             setService(itemValue);
-            console.log(itemValue);
           }}
         >
           {Array.isArray(data) &&
