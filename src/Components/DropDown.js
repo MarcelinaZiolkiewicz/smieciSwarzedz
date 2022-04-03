@@ -12,14 +12,12 @@ import {
   SET_SELECTED_CITY,
   SET_SELECTED_STREET,
 } from "../store/types";
-import { getAddresses, getStreets } from "../store/actions";
+import { getAddresses, getStreets, getExports } from "../store/actions";
 
 const DropDown = ({ name, data, label, type }) => {
   let [service, setService] = useState(null);
   const dispatch = useDispatch();
 
-  const selectedCity = useSelector(({ cities }) => cities.selectedCity);
-  const selectedStreet = useSelector(({ cities }) => cities.selectedStreet);
 
   const setSelectedValue = (type, val) => {
     if (type === "CITY") {

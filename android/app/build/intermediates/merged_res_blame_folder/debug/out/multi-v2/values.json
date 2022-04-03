@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Github\\smieciSwarzedz\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\4f6ddf37a5c206bb5b6a4ce7f206560c\\transformed\\jetified-drawee-2.5.0\\res\\values\\values.xml",
@@ -20,23 +20,6 @@
                         "endLines": "6118,6823",
                         "endColumns": "22,22",
                         "endOffsets": "389823,425049"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "51",
-                        "endOffsets": "63"
-                    },
-                    "to": {
-                        "startLines": "687",
-                        "startColumns": "4",
-                        "startOffsets": "43937",
-                        "endColumns": "51",
-                        "endOffsets": "43984"
                     }
                 },
                 {
@@ -205,6 +188,25 @@
                     }
                 },
                 {
+                    "source": "D:\\Github\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "273"
+                    },
+                    "to": {
+                        "startLines": "817",
+                        "startColumns": "4",
+                        "startOffsets": "59466",
+                        "endLines": "820",
+                        "endColumns": "12",
+                        "endOffsets": "59679"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\04d5eb98ae86f5903d150970f0c82b3c\\transformed\\lifecycle-runtime-2.3.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -222,7 +224,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "source": "D:\\Github\\smieciSwarzedz\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
                     "from": {
                         "startLines": "6,8",
                         "startColumns": "4,4",
@@ -351,22 +353,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Github\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "3",
+                        "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
+                        "startOffsets": "17",
+                        "endColumns": "51",
+                        "endOffsets": "64"
                     },
                     "to": {
-                        "startLines": "817",
+                        "startLines": "687",
                         "startColumns": "4",
-                        "startOffsets": "59466",
-                        "endLines": "820",
-                        "endColumns": "12",
-                        "endOffsets": "59679"
+                        "startOffsets": "43937",
+                        "endColumns": "51",
+                        "endOffsets": "43984"
                     }
                 }
             ]
