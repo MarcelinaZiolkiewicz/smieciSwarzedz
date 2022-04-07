@@ -148,11 +148,25 @@ export const getData = (data) => (dispatch) => {
       }
 
       //to jest do rozkminienia bo nie dziala
+      let dates = [];
+      // for (let i = 0; i < months.length; i++) {
+      //   for (let j = 0; j < months[i].length; j++) {
+      //     console.log(months[i].childNodes[j].childNodes.data);
+      //   }
+      // }
+      //to jest lista z datami wywozów ze stycznia
+      console.log(months[0].childNodes[0].childNodes[0].data);
       for (let i = 0; i < months.length; i++) {
-        for (let j = 0; j < months[i].length; j++) {
-          console.log(months[i].childNodes[j].childNodes.data);
+        for (let j = 0; j < months[i].childNodes.length; j++) {
+          dates.push(
+            months[i].childNodes[j].childNodes[0]?.data
+              ? months[i].childNodes[j].childNodes[0].data
+              : "brak"
+          );
         }
       }
+
+      console.log(dates);
 
       dispatch({ type: SET_LOADED_URL_SUCCESS });
     })
@@ -161,6 +175,10 @@ export const getData = (data) => (dispatch) => {
       console.log(error);
     });
 };
+
+// const testObject = {
+//   monthName:
+// }
 
 const fetchExportsSuccess = (exports) => {
   return {
