@@ -1,24 +1,24 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
-MERGED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
+ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
+MERGED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
 MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\18e0ab4fbb39be6e329c0090273b56c2\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\8f729fa990547c0fb5dd9b656172df4e\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\cd4b61af8ae18f8868ef3d9e62e82202\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:8:1-15:12
-MERGED from [:react-native-async-storage_async-storage] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-27:12
-MERGED from [:react-native-gesture-handler] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-safe-area-context] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-svg] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] D:\Github\smieciSwarzedz\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-gesture-handler] D:\Github\smieciSwarzedz\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] D:\Github\smieciSwarzedz\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\Github\smieciSwarzedz\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] D:\Github\smieciSwarzedz\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\ziolo\.gradle\caches\transforms-3\18179aef306b18af0ae8dec0b82dd0e0\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-analytics:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\9ad5278a0a22daffc274dc3df507fc01\transformed\jetified-firebase-analytics-20.1.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ziolo\.gradle\caches\transforms-3\10ee82a698bd77527c390b9f72893be9\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\ziolo\.gradle\caches\transforms-3\bbd42d81da15708db16cd2482f30493c\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-reanimated] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-reanimated\android\build\.transforms\de8cded2fcdaad4803f9ad3c305b104d\transformed\jetified-react-native-reanimated-67-jsc\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] D:\Github\smieciSwarzedz\node_modules\react-native-reanimated\android\build\.transforms\a1d3037a0c1efe3bbf8f9fd6952a5fc5\transformed\jetified-react-native-reanimated-67-jsc\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\31253079818fd434df58ab0f750e29fd\transformed\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:17:1-37:12
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ziolo\.gradle\caches\transforms-3\cbdeb136548d035591db2a36e0c3e8e0\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\ziolo\.gradle\caches\transforms-3\dd38c2224f68966eb33d72686194ad52\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:15:1-40:12
@@ -93,28 +93,28 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\ziolo\.gradle\caches\transforms-3\e0820fd262578861100085320f79c721\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\ziolo\.gradle\caches\transforms-3\962bfe1dfb1ac86fd26e369a6a9345c6\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ziolo\.gradle\caches\transforms-3\0ecb36655064f5e623b2e5ad238f80df\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:2:1-13:12
 	package
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:2:3-31
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:2:3-31
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:2:3-31
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:2:3-31
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:3:5-51
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:1-25:12
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\18e0ab4fbb39be6e329c0090273b56c2\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\18e0ab4fbb39be6e329c0090273b56c2\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:15:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\31253079818fd434df58ab0f750e29fd\transformed\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:22:5-67
@@ -128,13 +128,13 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.1] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\952e71b12916b0a9bb38ea982901056c\transformed\jetified-play-services-measurement-sdk-api-20.1.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\952e71b12916b0a9bb38ea982901056c\transformed\jetified-play-services-measurement-sdk-api-20.1.1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-25:19
-MERGED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-25:19
+ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-25:19
+MERGED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-25:19
 MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\ziolo\.gradle\caches\transforms-3\18179aef306b18af0ae8dec0b82dd0e0\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\ziolo\.gradle\caches\transforms-3\18179aef306b18af0ae8dec0b82dd0e0\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-analytics:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\9ad5278a0a22daffc274dc3df507fc01\transformed\jetified-firebase-analytics-20.1.1\AndroidManifest.xml:7:5-20
@@ -178,73 +178,73 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\zi
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\ziolo\.gradle\caches\transforms-3\880ee4b6aaef12296eae4145d472dda9\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:8:7-39
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:10:9-48
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:10:7-52
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:9:9-29
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:9:7-41
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:11:7-34
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:12:7-38
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:8:9-44
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:7:7-38
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:7:7-38
 activity#com.smieciswarzedz.MainActivity
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:13:7-23:18
+ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:13:7-23:18
 	android:label
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:15:9-41
 	android:launchMode
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:17:9-40
 	android:windowSoftInputMode
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:18:9-51
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:18:9-51
 	android:configChanges
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:16:9-86
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:16:9-86
 	android:name
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:19:9-22:25
+ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:20:13-65
+ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:20:21-62
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:21:13-73
+ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:21:23-70
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml:21:23-70
 uses-sdk
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\18e0ab4fbb39be6e329c0090273b56c2\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\18e0ab4fbb39be6e329c0090273b56c2\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\8f729fa990547c0fb5dd9b656172df4e\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\8f729fa990547c0fb5dd9b656172df4e\transformed\jetified-flipper-network-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\cd4b61af8ae18f8868ef3d9e62e82202\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\cd4b61af8ae18f8868ef3d9e62e82202\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-async-storage_async-storage] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Github\smieciSwarzedz\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\Github\smieciSwarzedz\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Github\smieciSwarzedz\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] D:\Github\smieciSwarzedz\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Github\smieciSwarzedz\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\Github\smieciSwarzedz\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Github\smieciSwarzedz\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\Github\smieciSwarzedz\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\Github\smieciSwarzedz\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\Github\smieciSwarzedz\node_modules\react-native-svg\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\ziolo\.gradle\caches\transforms-3\18179aef306b18af0ae8dec0b82dd0e0\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.4] C:\Users\ziolo\.gradle\caches\transforms-3\18179aef306b18af0ae8dec0b82dd0e0\transformed\jetified-react-native-0.67.4\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-analytics:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\9ad5278a0a22daffc274dc3df507fc01\transformed\jetified-firebase-analytics-20.1.1\AndroidManifest.xml:5:5-44
@@ -253,8 +253,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ziol
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ziolo\.gradle\caches\transforms-3\10ee82a698bd77527c390b9f72893be9\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\ziolo\.gradle\caches\transforms-3\bbd42d81da15708db16cd2482f30493c\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\ziolo\.gradle\caches\transforms-3\bbd42d81da15708db16cd2482f30493c\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-reanimated\android\build\.transforms\de8cded2fcdaad4803f9ad3c305b104d\transformed\jetified-react-native-reanimated-67-jsc\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-reanimated] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\react-native-reanimated\android\build\.transforms\de8cded2fcdaad4803f9ad3c305b104d\transformed\jetified-react-native-reanimated-67-jsc\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Github\smieciSwarzedz\node_modules\react-native-reanimated\android\build\.transforms\a1d3037a0c1efe3bbf8f9fd6952a5fc5\transformed\jetified-react-native-reanimated-67-jsc\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] D:\Github\smieciSwarzedz\node_modules\react-native-reanimated\android\build\.transforms\a1d3037a0c1efe3bbf8f9fd6952a5fc5\transformed\jetified-react-native-reanimated-67-jsc\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\31253079818fd434df58ab0f750e29fd\transformed\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\31253079818fd434df58ab0f750e29fd\transformed\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ziolo\.gradle\caches\transforms-3\cbdeb136548d035591db2a36e0c3e8e0\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
@@ -403,34 +403,34 @@ MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\ziolo\.gradle\caches\tra
 MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\ziolo\.gradle\caches\transforms-3\962bfe1dfb1ac86fd26e369a6a9345c6\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ziolo\.gradle\caches\transforms-3\0ecb36655064f5e623b2e5ad238f80df\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ziolo\.gradle\caches\transforms-3\0ecb36655064f5e623b2e5ad238f80df\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:5:5-77
+ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:5:22-75
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:5:22-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:11:9-86
+ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:11:9-86
 	android:name
-		ADDED from C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:11:19-83
+		ADDED from D:\Github\smieciSwarzedz\android\app\src\debug\AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\18e0ab4fbb39be6e329c0090273b56c2\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.99.0] C:\Users\ziolo\.gradle\caches\transforms-3\18e0ab4fbb39be6e329c0090273b56c2\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:22-73
 meta-data#app_data_collection_default_enabled
-ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:36
+ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:36
 	android:value
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-33
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-33
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-63
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-63
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-18:19
+ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-18:19
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\31253079818fd434df58ab0f750e29fd\transformed\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:28:9-34:19
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\31253079818fd434df58ab0f750e29fd\transformed\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:28:9-34:19
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ziolo\.gradle\caches\transforms-3\cbdeb136548d035591db2a36e0c3e8e0\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
@@ -444,23 +444,23 @@ MERGED from [com.google.firebase:firebase-common:20.1.0] C:\Users\ziolo\.gradle\
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.1.0] C:\Users\ziolo\.gradle\caches\transforms-3\dd38c2224f68966eb33d72686194ad52\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:18-89
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:85
+ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:85
 	android:value
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-120
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-120
 provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
-ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-24:38
+ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-24:38
 	android:authorities
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-86
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-86
 	android:exported
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
 	android:initOrder
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-35
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-35
 	android:name
-		ADDED from [:react-native-firebase_app] C:\Users\ziolo\OneDrive\Pulpit\Webstorm Projects\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-88
+		ADDED from [:react-native-firebase_app] D:\Github\smieciSwarzedz\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-88
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-measurement-api:20.1.1] C:\Users\ziolo\.gradle\caches\transforms-3\31253079818fd434df58ab0f750e29fd\transformed\jetified-play-services-measurement-api-20.1.1\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ziolo\.gradle\caches\transforms-3\cbdeb136548d035591db2a36e0c3e8e0\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79

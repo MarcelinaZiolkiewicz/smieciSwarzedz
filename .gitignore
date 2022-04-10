@@ -62,3 +62,4 @@ android/app/src/main/assets/index.android.bundle
 /ios/Pods/
 
 .env
+/__tests__/

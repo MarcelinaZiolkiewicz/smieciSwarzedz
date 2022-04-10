@@ -1,42 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Github\\smieciSwarzedz\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "51",
-                        "endOffsets": "63"
-                    },
-                    "to": {
-                        "startLines": "696",
-                        "startColumns": "4",
-                        "startOffsets": "44676",
-                        "endColumns": "51",
-                        "endOffsets": "44723"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,712",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "194,276,380,489,609,707,782"
-                    },
-                    "to": {
-                        "startLines": "753,758,759,760,761,762,812",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "51351,51963,52045,52149,52258,52378,60378",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "51490,52040,52144,52253,52373,52471,60448"
-                    }
-                },
                 {
                     "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\e2e6e1679e4c14b3cd1ac26c1534ab62\\transformed\\coordinatorlayout-1.1.0\\res\\values\\values.xml",
                     "from": {
@@ -148,6 +114,25 @@
                     }
                 },
                 {
+                    "source": "D:\\Github\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "273"
+                    },
+                    "to": {
+                        "startLines": "851",
+                        "startColumns": "4",
+                        "startOffsets": "63270",
+                        "endLines": "854",
+                        "endColumns": "12",
+                        "endOffsets": "63483"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\0fd7e6d6daffba9d1574657a744a130d\\transformed\\jetified-autofill-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,19,20,27,32,37,44,53",
@@ -201,7 +186,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
+                    "source": "D:\\Github\\smieciSwarzedz\\android\\app\\build\\generated\\res\\resValues\\debug\\values\\gradleResValues.xml",
                     "from": {
                         "startLines": "6,8",
                         "startColumns": "4,4",
@@ -253,6 +238,23 @@
                         "endLines": "588,606,639,6009,6013",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "38321,39191,40898,387453,387602"
+                    }
+                },
+                {
+                    "source": "D:\\Github\\smieciSwarzedz\\android\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,712",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "194,276,380,489,609,707,782"
+                    },
+                    "to": {
+                        "startLines": "753,758,759,760,761,762,812",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "51351,51963,52045,52149,52258,52378,60378",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "51490,52040,52144,52253,52373,52471,60448"
                     }
                 },
                 {
@@ -330,6 +332,23 @@
                     }
                 },
                 {
+                    "source": "D:\\Github\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "51",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "696",
+                        "startColumns": "4",
+                        "startOffsets": "44676",
+                        "endColumns": "51",
+                        "endOffsets": "44723"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\9304b3e641c670209b0c4dc1fa59f464\\transformed\\jetified-drawee-2.5.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,141",
@@ -401,25 +420,6 @@
                         "startOffsets": "40692",
                         "endColumns": "42",
                         "endOffsets": "40730"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "851",
-                        "startColumns": "4",
-                        "startOffsets": "63270",
-                        "endLines": "854",
-                        "endColumns": "12",
-                        "endOffsets": "63483"
                     }
                 }
             ]

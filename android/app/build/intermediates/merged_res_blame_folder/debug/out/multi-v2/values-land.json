@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ziolo\\OneDrive\\Pulpit\\Webstorm Projects\\smieciSwarzedz\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\Github\\smieciSwarzedz\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ziolo\\.gradle\\caches\\transforms-3\\6f279d482823d30c74ae7a74aad9f57e\\transformed\\material-1.1.0\\res\\values-land\\values-land.xml",
