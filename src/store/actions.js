@@ -147,26 +147,53 @@ export const getData = (data) => (dispatch) => {
         monthsNames.push(months[i].childNodes[0].firstChild.data);
       }
 
-      //to jest do rozkminienia bo nie dziala
-      let dates = [];
-      // for (let i = 0; i < months.length; i++) {
-      //   for (let j = 0; j < months[i].length; j++) {
-      //     console.log(months[i].childNodes[j].childNodes.data);
-      //   }
-      // }
-      //to jest lista z datami wywozów ze stycznia
-      console.log(months[0].childNodes[0].childNodes[0].data);
+      let datesArray = [];
+      let garbageDates = {
+        monthName: "",
+        data: [],
+      };
+      let tab = [];
+
       for (let i = 0; i < months.length; i++) {
+        garbageDates = {
+          monthName: months[i].childNodes[0].childNodes[0].data,
+          data: [],
+        };
+        datesArray.push(garbageDates);
+
         for (let j = 0; j < months[i].childNodes.length; j++) {
-          dates.push(
+          if (
+            datesArray[i].monthName !==
             months[i].childNodes[j].childNodes[0]?.data
-              ? months[i].childNodes[j].childNodes[0].data
-              : "brak"
-          );
+          ) {
+            if (months[i].childNodes[j].childNodes[0]?.data) {
+              let dates = months[i].childNodes[j].childNodes[0].data.split(",");
+
+              // dates.map((date) => {
+              //   console.log(date);
+              //   for (let k = -1; k < tab.length; k++) {
+              //     if (tab.length > 0 && tab[k]?.date === date) {
+              //       console.log("Rozszerzam", date);
+              //       tab[k].categories.push(categories[j]);
+              //     } else {
+              //       console.log("Dodaje", date);
+              //       tab.push({
+              //         date: date,
+              //         categories: [categories[j]],
+              //       });
+              //     }
+              //     // console.log(tab);
+              //   }
+              // });
+            }
+          }
         }
       }
 
-      console.log(dates);
+      console.log(tab);
+      console.log(title);
+      console.log(categories);
+      console.log(datesArray);
 
       dispatch({ type: SET_LOADED_URL_SUCCESS });
     })
@@ -175,10 +202,6 @@ export const getData = (data) => (dispatch) => {
       console.log(error);
     });
 };
-
-// const testObject = {
-//   monthName:
-// }
 
 const fetchExportsSuccess = (exports) => {
   return {
